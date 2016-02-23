@@ -2,8 +2,8 @@
 /*jslint browser: true, for:true */
 
 /**JavaScript Document
- * Curso: HMTL5 - Pildoras Informáticas - API CANVAS I
- * Origin: Capitulo4.html ==> Añadir y quitar clases desde JavaScript
+ * Curso: HMTL5 - Pildoras Informáticas - API DRAG&DROP I
+ * Origin: Capitulo39.html ==> dragstart, dragend y drag
  */
 
 // "use strict";
